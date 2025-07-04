@@ -2,4 +2,4 @@ streamlit
 matplotlib
 pandas
 inference-sdk
-opencv-python
+opencv-python-headless
