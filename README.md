@@ -1,3 +1,6 @@
+Live Link:https://chandrasekhar2505-2wheelertrafficrules-app-kx6l5k.streamlit.app/
+
+
 # 🚦 Two-Wheeler Traffic Rules Violation Detection System
 
 A real-time AI-powered surveillance system designed to detect and report two-wheeler traffic violations such as helmet-less riding, triple riding, and mobile phone usage. The project leverages YOLOv8 for object detection, OCR for license plate recognition, and Streamlit for interactive user visualization.
